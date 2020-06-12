@@ -8,5 +8,10 @@ namespace SemmleCSharp
         {
             Console.WriteLine("Hello World!");
         }
+
+        static void Demp()
+        {
+
+        }
     }
 }
